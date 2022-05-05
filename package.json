@@ -2,6 +2,7 @@
   "name": "a05",
   "version": "0.5.0",
   "description": "Coinserver API that also serves a single page HTML/CSS/JS browser-based interface.",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "test": "npx nodemon index.js --port=5000 --debug",
